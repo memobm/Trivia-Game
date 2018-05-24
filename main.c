@@ -32,7 +32,6 @@ int main(void) {
         printf("-----------------------------------------------------------\n");
         printf("\t\t\t\tMENU\n");
         printf("\t\tPress 1 to play Game\n");
-       // printf("\t\tPress 2 to view high scores\n");
         printf("\t\tPress 2 to quit\n\n");
         printf("\t\tWhat do you want to do?: ");
         scanf("%d", &choice);
@@ -44,8 +43,6 @@ int main(void) {
             playgame();
             break;
             
-       // case 2:
-       //   highscore();
             case 2:
                 printf("Thanks for playing\n");
                 exit(0);
