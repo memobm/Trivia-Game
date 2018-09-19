@@ -3,7 +3,7 @@
 //  Trivia game
 //  
 //  Created by Guillermo Barragan on 5/22/18.
-//  Redisign of the trvia game to incorporate DRY principles by Guillermo Barragan 09/19/18
+//  
 //  Copyright © 2018 Guillermo Barragan. All rights reserved.
 //
 
